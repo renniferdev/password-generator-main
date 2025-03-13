@@ -13,7 +13,7 @@ Nesta fase do processo seletivo, o objetivo é conhecer um pouco melhor a forma 
 | - | - |
 | ✨ Nome       | **Gerador de senhas** |
 | 🏷️ Tecnologias | JavaScript, HTML, Sass, CSS |
-| 🚀 Live site         | **https://password-generator-angela.vercel.app/** |
+| 🚀 Live site         | **https://password-generator-main-ten.vercel.app/** |
 
 ![](./assets/img/og-image.png)
 
