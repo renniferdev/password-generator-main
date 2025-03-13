@@ -4,16 +4,12 @@
 
 </div>
 
-Este **Gerador de Senhas** é uma aplicação desenvolvida como teste técnico para a posição de Pessoa Desenvolvedora Front End (Vaga Afirmativa para Mulheres) na [Alura](https://www.alura.com.br).
-
-Nesta fase do processo seletivo, o objetivo é conhecer um pouco melhor a forma que o desenvolvedor trabalha e, para isso, a empresa selecionou 4 (quatro) _cases_ situações que são bem comuns no dia a dia de seus times, ficando à critério do desenvolvedor a escolha do projeto a ser desenvolvido.
-
 <!-- prettier-ignore -->
 |  |  |
 | - | - |
 | ✨ Nome       | **Gerador de senhas** |
 | 🏷️ Tecnologias | JavaScript, HTML, Sass, CSS |
-| 🚀 Live site         | **https://password-generator-angela.vercel.app/** |
+| 🚀 Live site         | **https://password-generator-main-ten.vercel.app/** |
 
 ![](./assets/img/og-image.png)
 
@@ -24,22 +20,10 @@ Nesta fase do processo seletivo, o objetivo é conhecer um pouco melhor a forma 
   <img src="https://img.shields.io/badge/css-137bc4?style=for-the-badge&logo=css3&logoColor=fff">
 </div>
 
-## 📈 Critérios de avaliação
-
-1. Se as instruções do projeto foram seguidas de acordo com a descrição passada;
-2. Se o trabalho entregue funciona sem bugs e está responsivo;
-3. Nível de dificuldade do projeto escolhido;
-4. Como foi usado HTML, CSS e JavaScript para a realização do projeto;
-5. Código limpo e organizado.
-
 Diferenciais:
 
 - Uso de Sass
 - Boa documentação
-
-> _**Nota:** Visto que os requisitos não especificam frameworks ou bibliotecas a serem utilizadas (Vue, Angular, React, etc.), e que a avaliação se dá na análise de HTML, CSS e JavaScript, optei por desenvolver um projeto "vanilla" para que o uso do JavaScript seja puro e não seja ofuscado por métodos específicos de outras tecnologias._
-
-## 🖥️ Requisitos do projeto
 
 Trata-se de um **gerador de senhas** com controle de número de caracteres, características da senha e força da senha.
 
@@ -78,7 +62,7 @@ Já o segundo botão gera uma nova senha com base nas características atualment
 
 ![campo gerador de senha](./assets/img/password-field.png)
 
-## 📝 Notas da desenvolvedora
+## 📝 Notas do desenvolvedor
 
 O projeto possui responsividade com estilos no padrão _mobile first_ para as telas _mobile_ (até `767px`), _tablet_ (de `768px` a `1023px`) e _desktop_ (a partir de `1024px`).
 
@@ -107,5 +91,4 @@ Apesar de temos algumas definições de força de senha já indicadas nos requis
 
 ---
 
-Developed with 🧡 by [@sucodelarangela 🍊](https://angelacaldas.netlify.app)
 # password-generator-main
